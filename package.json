@@ -1,0 +1,11 @@
+{
+  "name": "graphql-tag-register",
+  "version": "0.1.0",
+  "description": "Compile .gql files as graphql-tags at runtime (similar to babel-core/register)",
+  "main": "index.js",
+  "author": "Stefan Mirea <steven.mirea@gmail.com>",
+  "dependencies": {
+    "graphql": "^0.10.1",
+    "graphql-tag": "^2.2.2"
+  }
+}
