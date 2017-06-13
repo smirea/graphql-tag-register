@@ -1,7 +1,0 @@
-
-query Foo {
-    productQuery {
-        a
-        b
-    }
-}

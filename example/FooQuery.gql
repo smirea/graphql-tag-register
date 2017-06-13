@@ -1,0 +1,7 @@
+
+query Foo {
+    fooQuery {
+        bar
+        baz
+    }
+}

@@ -11,6 +11,10 @@
     "node",
     "react-native"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smirea/graphql-tag-register"
+  },
   "dependencies": {
     "graphql": "^0.10.1",
     "graphql-tag": "^2.2.2"

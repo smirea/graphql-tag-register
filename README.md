@@ -16,6 +16,6 @@ const MyQuery = require('./my-query.gql');
 There's a complex example built in !!
 
 ```bash
-# will load ./example.gql
-node ./example.js
+# will load + print ./examples/FooQuery.gql
+node example
 ```
